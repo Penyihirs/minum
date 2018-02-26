@@ -22,6 +22,8 @@ V2.1 last update::
 
 [GENERATE TOKEN](http://101.255.95.249:6969)
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## THANKS TO.
 ```=========
 Allah swt
